@@ -2,18 +2,27 @@
 	"name": "optimizelua.cli",
 	"version": "0.1.2",
 	"description": "Optimize Lua using the optimize.lua package",
-	"main": "cli.js",
+	"main": "bin/cli.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"keywords": [],
-	"author": "",
+	"author": "MokiyCodes",
 	"license": "MIT",
+	"publishConfig": {
+		"access": "public"
+	},
 	"dependencies": {
 		"optimize.lua": "0.1.2",
 		"yargs": "^17.3.1"
 	},
 	"devDependencies": {
 		"@types/yargs": "^17.0.8"
-	}
+	},
+	"bin": "bin/cli.js",
+	"files": [
+		"bin/"
+	],
+	"engines": {},
+	"engineStrict": true
 }

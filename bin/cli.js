@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const { optimize } = require('optimize.lua');
 const yargs = require('yargs');
 const { hideBin } = require('yargs/helpers');
