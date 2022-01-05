@@ -17,7 +17,7 @@
 		"yargs": "^17.3.1"
 	},
 	"devDependencies": {
-		"@types/yargs": "^17.0.8"
+		"@types/yargs": "17.0.8"
 	},
 	"bin": "bin/cli.js",
 	"files": [
