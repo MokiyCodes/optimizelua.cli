@@ -1,7 +1,7 @@
 lockfileVersion: 5.3
 
 specifiers:
-  '@types/yargs': 17.0.8
+  '@types/yargs': 17.0.9
   optimize.lua: 0.1.2
   yargs: ^17.3.1
 
@@ -10,7 +10,7 @@ dependencies:
   yargs: 17.3.1
 
 devDependencies:
-  '@types/yargs': 17.0.8
+  '@types/yargs': 17.0.9
 
 packages:
 
@@ -18,8 +18,8 @@ packages:
     resolution: {integrity: sha512-7tFImggNeNBVMsn0vLrpn1H1uPrUBdnARPTpZoitY37ZrdJREzf7I16tMrlK3hen349gr1NYh8CmZQa7CTG6Aw==}
     dev: true
 
-  /@types/yargs/17.0.8:
-    resolution: {integrity: sha512-wDeUwiUmem9FzsyysEwRukaEdDNcwbROvQ9QGRKaLI6t+IltNzbn4/i4asmB10auvZGQCzSQ6t0GSczEThlUXw==}
+  /@types/yargs/17.0.9:
+    resolution: {integrity: sha512-Ci8+4/DOtkHRylcisKmVMtmVO5g7weUVCKcsu1sJvF1bn0wExTmbHmhFKj7AnEm0de800iovGhdSKzYnzbaHpg==}
     dependencies:
       '@types/yargs-parser': 20.2.1
     dev: true
